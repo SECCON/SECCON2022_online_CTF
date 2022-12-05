@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+pycryptodome==3.15.0

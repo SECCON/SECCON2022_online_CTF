@@ -1,0 +1,9 @@
+version: '3'
+services:
+  findflag_dist:
+    build:
+      context: .
+    working_dir: /home/ctf
+    container_name: findflag_dist
+    ports:
+      - "10042:10042"

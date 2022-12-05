@@ -1,0 +1,11 @@
+version: '3'
+services:
+  babypf:
+    build:
+      context: .
+    working_dir: /home/pwn
+    container_name: babypf
+    ports:
+      - "9009:9999"
+    entrypoint: /etc/init.sh
+    restart: always

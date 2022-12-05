@@ -1,0 +1,1 @@
+SECCON{I_should_have_checked_the_return_value_of_scanf}

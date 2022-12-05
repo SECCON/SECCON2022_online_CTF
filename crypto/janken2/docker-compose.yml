@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  app:
+    build: ./build
+    restart: always
+    environment:
+      FLAG: SECCON{https://youtu.be/h0GSFxoRhrc} 
+    ports:
+      - "8080:8080"

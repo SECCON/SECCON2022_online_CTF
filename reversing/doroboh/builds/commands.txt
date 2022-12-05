@@ -1,0 +1,2 @@
+echo "SECCON{M3m0ry_Dump+P4ck3t_C4ptur3=S0ph1st1c4t3d_F0r3ns1cs}" > C:\Users\ctf\Desktop\flag.txt
+echo "I regret to say that your computer is pwned... :(" > C:\Users\ctf\Desktop\notification.txt
